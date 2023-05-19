@@ -631,14 +631,14 @@ input::placeholder {
         margin-right: 80px;
     }
     .about-img img{
-        width: 670px;
+        width: 600px;
         height: 620px;
         margin-left: 40px;
         border-radius: 5px;
     }
     .about-text {
         margin-left: 40px;
-        width: 470px;
+        width: 570px;
     }
     .about-text h3 {
         color: rgb(23, 173, 30);
