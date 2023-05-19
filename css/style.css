@@ -565,8 +565,8 @@ input::placeholder {
         color: #fff;
         font-size: 2.5rem;
         text-align: center;
-        width: 500px;
-        margin-left: 150px;
+        width: 410px;
+        margin-left: 145px;
         line-height: 40px;
         margin-bottom: 20px;
 
@@ -575,8 +575,8 @@ input::placeholder {
         color: #fff;
         font-size: 22px;
         font-weight: bold;
-        margin-left: 125px;
-        width: 550px;
+        margin-left: 175px;
+        width: 350px;
         text-align: center;
     }
     .pf-text span {
@@ -586,7 +586,7 @@ input::placeholder {
         display: flex;
         font-size: 30px;
         margin-top: 20px;
-        margin-left: 350px;
+        margin-left: 315px;
         flex-wrap: wrap;
         gap: 20px;
         
@@ -631,14 +631,14 @@ input::placeholder {
         margin-right: 80px;
     }
     .about-img img{
-        width: 410px;
+        width: 340px;
         height: 620px;
         margin-left: 40px;
         border-radius: 5px;
     }
     .about-text {
         margin-left: 40px;
-        width: 450px;
+        width: 340px;
     }
     .about-text h3 {
         color: rgb(23, 173, 30);
@@ -684,7 +684,7 @@ input::placeholder {
         flex-direction: row;
         margin-right: 30px;
         margin-top: 20px;
-        width: 410px;
+        width: 340px;
         height: 60px;
         border-radius: 5px;
         background-color: #191a1a;
