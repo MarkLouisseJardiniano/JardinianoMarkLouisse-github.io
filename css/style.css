@@ -815,5 +815,57 @@ button {
     }
 }
 
+    .projects-all {
+        display: flex;
+        flex-direction: row;
+        margin-right: 60px;
+        margin-left: 75px;
+        margin-top: 20px;
+        width: 1210px;
+        height: 270px;
+        border-radius: 15px;
+        background-color: #191a1a;
+    }
+    .projects img{
+        width: 500px;
+        margin-left: 50px;
+        margin-top:35px;
+        height: 200px;
+    }
+        .about-projects h6{
+        margin-top: 25px;
+        color: #fff;
+        font-size: 30px;
+        
+        margin-left: 40px;
+        width: 500px;
+
+    }
+        .about-projects p{
+        color: #fff;
+        font-size: 15px;
+        margin-left: 40px;  
+        width: 500px;   
+        margin-bottom: 20px   
+
+    }
+
+    .github {
+        display: flex;
+    }
+    .github i{
+        color: #fff;
+        font-size: 36px;
+        margin-left: 40px;
+    }
+    .github button{
+        width:80px; 
+        margin-left: 30px;
+        margin-top: 0;    
+    }
+
+
+
+
 
 
